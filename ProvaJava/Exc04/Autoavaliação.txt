@@ -1,0 +1,5 @@
+Nota: 7.5
+Honestamente gosto muito de fazer exercícios em Java e de aprimorá-los ao máximo possível, como o da prova, porém a minha procrastinação acaba me limitando e me deixando com pouco tempo para entregar tarefas com prazo.
+Em relação ao código, busquei fazer algo mais simples, porém funcional, e durante a execução do código baseado no protótipo realizado no Exc. 01, percebe que o resultado acaba sendo um pouco diferente do primeiro rascunho que temos sobre o código, pois acabam surgindo novas ideias de funcionalidades, métodos e outras coisas.
+Dica de gíria para o professor: “Meteu essa?”
+Significado: “Não acredito que ele disse ou fez isso”
